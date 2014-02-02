@@ -1,0 +1,6 @@
+C:\Users\HP\Documents\Visual Studio 2013\Projects\JuegaTuPenca\CommonLayer\bin\CommonLayer.dll.config
+C:\Users\HP\Documents\Visual Studio 2013\Projects\JuegaTuPenca\CommonLayer\bin\CommonLayer.dll
+C:\Users\HP\Documents\Visual Studio 2013\Projects\JuegaTuPenca\CommonLayer\bin\CommonLayer.pdb
+C:\Users\HP\Documents\Visual Studio 2013\Projects\JuegaTuPenca\CommonLayer\obj\Debug\CommonLayer.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2013\Projects\JuegaTuPenca\CommonLayer\obj\Debug\CommonLayer.dll
+C:\Users\HP\Documents\Visual Studio 2013\Projects\JuegaTuPenca\CommonLayer\obj\Debug\CommonLayer.pdb

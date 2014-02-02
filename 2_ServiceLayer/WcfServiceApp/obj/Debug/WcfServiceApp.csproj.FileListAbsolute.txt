@@ -1,0 +1,12 @@
+c:\users\hp\documents\visual studio 2013\Projects\WcfServiceApp\WcfServiceApp\obj\Debug\WcfServiceApp.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2013\Projects\WcfServiceApp\WcfServiceApp\bin\WcfServiceApp.dll.config
+c:\users\hp\documents\visual studio 2013\Projects\WcfServiceApp\WcfServiceApp\bin\WcfServiceApp.dll
+c:\users\hp\documents\visual studio 2013\Projects\WcfServiceApp\WcfServiceApp\bin\WcfServiceApp.pdb
+c:\users\hp\documents\visual studio 2013\Projects\WcfServiceApp\WcfServiceApp\obj\Debug\WcfServiceApp.dll
+c:\users\hp\documents\visual studio 2013\Projects\WcfServiceApp\WcfServiceApp\obj\Debug\WcfServiceApp.pdb
+C:\Users\HP\Documents\Visual Studio 2013\Projects\JuegaTuPenca\2_ServiceLayer\WcfServiceApp\bin\WcfServiceApp.dll.config
+C:\Users\HP\Documents\Visual Studio 2013\Projects\JuegaTuPenca\2_ServiceLayer\WcfServiceApp\bin\WcfServiceApp.dll
+C:\Users\HP\Documents\Visual Studio 2013\Projects\JuegaTuPenca\2_ServiceLayer\WcfServiceApp\bin\WcfServiceApp.pdb
+C:\Users\HP\Documents\Visual Studio 2013\Projects\JuegaTuPenca\2_ServiceLayer\WcfServiceApp\obj\Debug\WcfServiceApp.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2013\Projects\JuegaTuPenca\2_ServiceLayer\WcfServiceApp\obj\Debug\WcfServiceApp.dll
+C:\Users\HP\Documents\Visual Studio 2013\Projects\JuegaTuPenca\2_ServiceLayer\WcfServiceApp\obj\Debug\WcfServiceApp.pdb
